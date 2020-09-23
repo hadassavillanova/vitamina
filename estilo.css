@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    background-color: white;
+    padding: 24px 16px 16px 24px; 
+}
+
+p{
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2{
+    font-family: 'Roboto Slab', serif;
+    font-size: 33px;
+    padding: 0px 0px 0px 0px;
+   
+ }
+
+
+h3{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 24px;
+}
+
+#id {
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+
+}
+
+.headerFooter{
+    background-color: #21022d;
+    color: white;
+    padding: 8px 0px 8px 0px;
+    text-align: center;
+}
+
+
+#imagemunica{
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: 32px auto;
+}
+
+#conteudo{
+    background-color: #e2d8e7;
+    margin: 0%;
+    
+}
+
+#titulo{
+    text-align: center;
+    padding: 64px 0px 0px 0px;
+    margin: 0%;
+    font-size: 25px;
+}
+
+.vitaminas{
+    padding: 0px 0px 0px 64px;
+}
+
+h2 { 
+   padding: 16px 0px 32px 16px;
+}
+
+.ajustarimagem {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+
+}
+
+.video{
+    text-align: center;
+}
+
